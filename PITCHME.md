@@ -65,7 +65,7 @@ One of the nodes selected by a fair "lottery" algorithm. After creating the bloc
 
 ## So what if a node creates a new longer chain?
 
-- Blockcahins are design to make it hard <!-- .element: class="fragment" -->
+- Blockchains are design to make it hard <!-- .element: class="fragment" -->
 - But if it happens somehow, it would overwrite the previous chain <!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -90,7 +90,7 @@ One of the nodes selected by a fair "lottery" algorithm. After creating the bloc
 - Every node have to store the full chain
     - Size of the Bitcoin blockchain at the time of writing: ~127 GB <!-- .element: class="fragment" -->
 - Proof-of-work computing takes a lot of time/energy <!-- .element: class="fragment" -->
-    - This can make the vonfirmation of transactions slow <!-- .element: class="fragment" -->
+    - This can make the confirmation of transactions slow <!-- .element: class="fragment" -->
     - example: Bitcoin blocks are created every ~10 minutes and contain ~1800 transactions <!-- .element: class="fragment" -->
 
 #HSLIDE
